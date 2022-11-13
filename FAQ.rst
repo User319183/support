@@ -14,7 +14,7 @@ I've prepared a nice short little list of many common questions and answers. If 
 **Q2: A member opened a ticket and asked for supported executors. What do I do?**
 
 
-**A2: Type `?executors` in the ticket and reply to the question. This command will show a list of executors the script will work on.**
+**A2: Type "?executors" in the ticket and reply to the question. This command will show a list of executors the script will work on.**
 
 
 

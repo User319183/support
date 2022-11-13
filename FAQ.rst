@@ -37,9 +37,3 @@ I've prepared a nice short little list of many common questions and answers. If 
 **A5: Let the user know that you are not allowed to help with other scripts/executors. You are allowed to suggest sites to them like google or youtube.**
 
 
-
-
-
-
-
-`Please click on this link to learn how to download this extension. <https://github.com/User319183/How-to-be-a-good-support-member/blob/main/FAQ.rst>`_

@@ -27,7 +27,7 @@ I've prepared a nice short little list of many common questions and answers. If 
 **Q4: Someone opened a ticket because they purchased beta. What do I do?**
 
 
-**A4: Ask them if they purchased beta using Robux or Paypal. If they purchased it using Robux, ask them for the purchase screne & their Roblox username. If they purchased it using Paypal, ask them for their paypal username & a screenshot of the purchase screen.**
+**A4: A4: Ask the user for their PayPayl / Roblox username, depending on which method they used for the purchase. After that, make sure to notify a Moderator+.**
 
 
 

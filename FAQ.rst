@@ -31,7 +31,7 @@ I've prepared a nice short little list of many common questions and answers. If 
 
 
 
-**Q5: Someone opened a ticket and asked for help on an executor/another script?**
+**Q5: Someone opened a ticket and asked for help on an executor/another script. What should I do?**
 
 
 **A5: Let the user know that you are not allowed to help with other scripts/executors. You are allowed to suggest sites to them like google or youtube.**
